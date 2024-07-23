@@ -1,6 +1,6 @@
 Song recommendation system based on lyrical (or semantics of the text) meaning.
 
-Check out doc2vec.ipynb for visualizations and results.
+Check out Paper Report and doc2vec.ipynb for visualizations and results.
 
 Built using the Doc2Vec model.
 
