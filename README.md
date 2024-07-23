@@ -1,5 +1,7 @@
 Song recommendation system based on lyrical (or semantics of the text) meaning.
 
+Check out doc2vec.pynb for visualizations and results.
+
 Built using the Doc2Vec model.
 
 T-SNE and other visualizations are done after analysing the data through Pandas and other tools.
